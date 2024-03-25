@@ -22,8 +22,8 @@
 
 ## Задание 3  
 ### Создание raw репозитория  
-![raw](/pic/task_3_1_1.png) 
+![raw](/pic/task_3_0.png) 
 ### Создание go file и добавление его в pipeline 
 ![go](/pic/task_3_1.png) 
 ### Успешное выполнение pipeline 
-![pipeline](/pic/task_3_2.png)
+![pipeline](/pic/task_3_2png)
