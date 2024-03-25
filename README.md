@@ -18,4 +18,12 @@
 ### Создан новый pipeline и переписан код 
 ![pipe](/pic/task_2_1.png) 
 ### Успешное выполнение, пока что убрана стадия пуша т.к. это 3 задание
-![play](/pic/task_2_2.png)
+![play](/pic/task_2_2.png)  
+
+## Задание 3  
+### Создание raw репозитория  
+![raw](/pic/task_3_1_1.png) 
+### Создание go file и добавление его в pipeline 
+![go](/pic/task_3_1.png) 
+### Успешное выполнение pipeline 
+![pipeline](/pic/task_3_2.png)
