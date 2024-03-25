@@ -7,4 +7,10 @@
 
 
 ## Задание 1
+### ВМ с jenkins 
 ![jenkins](/pic/jen.png)
+### Установка go
+![go](/pic/go.png)
+### Успешный запуск проекта в Jenkins
+![1](/pic/num_1.png)
+
