@@ -6,11 +6,16 @@
 - [Дополнительный материал для занятия "8.3. GitLab"](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
 
 
-## Задание 1
-### ВМ с jenkins 
-![jenkins](/pic/jen.png)
-### Установка go
-![go](/pic/go.png)
-### Успешный запуск проекта в Jenkins
-![1](/pic/num_1.png)
+## Задание 1 
+### ВМ с jenkins  
+![jenkins](/pic/jen.png) 
+### Установка go 
+![go](/pic/go.png) 
+### Успешный запуск проекта в Jenkins 
+![1](/pic/num_1.png)   
 
+## Задание 2 
+### Создан новый pipeline и переписан код 
+![pipe](/pic/task_2_1.png) 
+### Успешное выполнение, пока что убрана стадия пуша т.к. это 3 задание
+![play](/pic/task_2_2.png)
